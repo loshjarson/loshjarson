@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Larson</h1>
 <h3 align="center">A passionate Full Stack Web Developer | JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on [Family Promise Case Management](https://github.com/BloomTech-Labs/family-promise-case-mgmt-fe | https://github.com/BloomTech-Labs/family-promise-case-mgmt-be)
+- 🔭 I’m currently working on [Shipping Assistant](https://github.com/loshjarson/Shipping-Assistant-FE | https://github.com/loshjarson/Shipping-Assistant-BE)
 
 - 👯 I’m looking to collaborate on [FOMO-Free](https://github.com/FOMO-Free)
 
