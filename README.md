@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua Larson</h1>
 <h3 align="center">A passionate Full Stack Web Developer | JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on [Shipping Assistant](https://github.com/loshjarson/Shipping-Assistant-FE | https://github.com/loshjarson/Shipping-Assistant-BE)
-
-- 👯 I’m looking to collaborate on [FOMO-Free](https://github.com/FOMO-Free)
-
 - 📫 How to reach me **josh.e.larson@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/JoshuaLResume](https://bit.ly/JoshuaLResume)
