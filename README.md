@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **josh.e.larson@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/JoshuaLResume](https://bit.ly/JoshuaLResume)
+- 📄 Know about my experiences [Resume](https://bit.ly/JoshuaLResume)
+
+- Currently working on [Cooking Assistant](https://github.com/loshjarson/cooks-assistant-fe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
