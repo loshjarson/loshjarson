@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [Resume](https://bit.ly/JoshuaLResume)
 
-- 🔧 Currently working on Cooks Assistant [Front-End](https://github.com/loshjarson/cooks-assistant-fe) [Back-End](https://github.com/loshjarson/cooks-assistant-be)
+- 🔧 Currently working on Cooks Assistant [Front-End](https://github.com/loshjarson/cooks-assistant-fe) | [Back-End](https://github.com/loshjarson/cooks-assistant-be)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
