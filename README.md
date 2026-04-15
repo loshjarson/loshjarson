@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **josh.e.larson@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/JoshuaLResume)
 
 
 
